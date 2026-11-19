@@ -1,0 +1,7 @@
+# Qoʻshimcha tikerlar — AI universumidan (~170 ta yirik aksiya) TASHQARIDAGI aksiyalar.
+# Har bir tiker uchun sayt alohida tahlil sahifasi tayyorlaydi (grafik, Monte-Karlo, support/resistance, Wyckoff, Gann, sham,
+# fundamental, yangilik, AI bali). Eng koʻpi bilan 60 ta. '#' dan keyingi matn izoh.
+# Tikerlar boʻsh joy, vergul yoki yangi qator bilan ajratiladi. Oʻzgartirib saqlasangiz (Commit), sayt avtomatik qayta quriladi.
+# Eslatma: kichik/illikvid aksiyalar uchun model ishonchsizroq (sahifada ogohlantirish chiqadi).
+
+SPSC
